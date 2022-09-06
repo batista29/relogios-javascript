@@ -1,1 +1,1 @@
-Repositório para estudos mais aprofundados nas devidas linguagens.
+Repositório de estudos.
